@@ -53,7 +53,7 @@ namespace Calculs
                     {
                         
                         // saisie de la réponse
-                        Console.Write(val1 + " x " + val2 + " = ");
+                        Console.Write(val1 + " x 
                         reponse = int.Parse(Console.ReadLine());
                         // comparaison avec la bonne réponse
                         solution = val1 * val2;
